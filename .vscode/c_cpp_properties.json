@@ -1,0 +1,25 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/albertlee/rm_75_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/albertlee/rm_75_ws/src/rm_75_robot/rm_75_control/include/**",
+        "/home/albertlee/rm_75_ws/src/rm_75_robot/rm_75_demo/include/**",
+        "/home/albertlee/rm_75_ws/src/rm_75_robot/rm_75_driver/include/**",
+        "/home/albertlee/rm_75_ws/src/rm_75_robot/rm_75_msgs/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
